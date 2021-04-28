@@ -1,14 +1,13 @@
 # Popular Music Features
-> What is the bare minimum I must do to make a hit song in 2021? I want to examine hit songs to see what audio and musical features they have in common. 
+What is the bare minimum I must do to make a hit song in 2021? I want to examine hit songs to see what audio and musical features they have in common. 
 
 ## Table of contents
 * [General info](#general-info)
 * [Dashboard](#dashboard)
 * [Technologies](#technologies)
 * [Features](#features)
-* [Status](#status)
 * [Inspiration](#inspiration)
-* [Contact](#contact)
+
 
 ## General info
 As a musician I am very curious about what makes a song popular. 
@@ -49,19 +48,14 @@ Knowing what key a song is in lets the musicians who are performing the actual m
 
 ## Features
 List of features ready 
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Able to see distribution of songs along different audio features
+* Can search by song title or artist to see where they land on a distribution
+
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Would like to add a lyrical analysis, but that might be a completely different project
 
-## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+I've been performing music for over 20 years. Every now and then you get these magical songs that always go over well with an audience. I also wanted to learn more about APIs and working with music data.  
 
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!

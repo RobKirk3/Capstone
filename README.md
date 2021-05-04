@@ -66,7 +66,7 @@ To-do list:
 * Adding a way to filter by genre
 * Would like to add a lyrical analysis, but that might be a completely different project
 
-Limitations of the Data:
+## Limitations
 While Spotify does have most music, it does not have all music. Artists such as Garth Brooks are not on Spotify, and Taylor Swift has only been added recently. 
 
 Also, looking at the release year tells us what songs from that year are still popular, not necessarily the trends over time. Spotify has been around since 2008, so these popular songs from decades past are the music that is still popular from that time, not necessarily all popular music from that time. 
